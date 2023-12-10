@@ -108,12 +108,6 @@
 <a><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=barubdg&theme=tokyonight" alt="barubdg" /></a>
 <a><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=barubdg&theme=tokyonight" alt="barubdg" /></a>
 
-###
-
-<img src="https://raw.githubusercontent.com/barubdg/barubdg/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 
 
