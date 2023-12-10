@@ -104,14 +104,15 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="30" alt="tensorflow"/></a>
 </div>
 
-
-
-
 <a><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=barubdg&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="barubdg" /></a>
 <a><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=barubdg&theme=tokyonight" alt="barubdg" /></a>
 <a><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=barubdg&theme=tokyonight" alt="barubdg" /></a>
 
+###
 
+<img src="https://raw.githubusercontent.com/barubdg/barubdg/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
