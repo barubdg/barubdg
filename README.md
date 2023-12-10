@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Baruch Dámazo</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/barubdg/barubdg/master/wave.gif" width="30">, I'm Baruch Dámazo</h1>
 <h3 align="center">Ingeniería de Software | 6° ciclo | Machine Learning | Python Data Analytics Developer | Java Developer | Graphic Designer | Video Editor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barubdg&label=Profile%20views&color=0e75b6&style=flat" alt="barubdg" /> </p>
