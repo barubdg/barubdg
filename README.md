@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="250" />
+<<img align="right" src="photo-profile.png" alt="Imagen" height="300" />
 
 ###
 
