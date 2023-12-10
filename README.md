@@ -2,7 +2,7 @@
 <h3 align="center">Ingeniería de Software | 6° ciclo | Machine Learning | Python Data Analytics Developer | Java Developer | Graphic Designer | Video Editor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barubdg&label=Profile%20views&color=0e75b6&style=flat" alt="barubdg" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barubdg" alt="barubdg" /></a> </p>
+<p align="center> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barubdg&theme=tokyonight" alt="barubdg" /></a> </p>
 
 ###
 
@@ -106,17 +106,12 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barubdg&show_icons=true&locale=en&layout=compact" alt="barubdg" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barubdg&show_icons=true&locale=en" alt="barubdg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barubdg&" alt="barubdg" /></p>
+<a><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=barubdg&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="barubdg" /></a>
+<a><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=barubdg&theme=tokyonight" alt="barubdg" /></a>
+<a><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=barubdg&theme=tokyonight" alt="barubdg" /></a>
 
 
 
-<a href="https://github.com/barubdg/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barubdg&layout=compact&theme=tokyonight" /></a>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=barubdg&theme=tokyonight" alt="barubdg" />
-<br/>
 
 
 
