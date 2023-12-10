@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/barubdg/barubdg/master/wave.gif" width="30">, I'm Baruch Dámazo</h1>
 <h3 align="center">Ingeniería de Software | 6° ciclo | Machine Learning | Python Data Analytics Developer | Java Developer | Graphic Designer | Video Editor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=barubdg&label=Profile%20views&color=0e75b6&style=flat" alt="barubdg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=barubdg&label=Profile%20views&color=0e75b6&style=flat" alt="barubdg"/> </p>
 <p align="center> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barubdg&theme=tokyonight" alt="barubdg" /></a> </p>
 
 ###
@@ -23,9 +23,6 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-
-
-
 <div align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/></a>
   <img width="12" />
@@ -103,6 +100,8 @@
   <img width="12" />
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="30" alt="tensorflow"/></a>
 </div>
+
+<br>
 
 <a><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=barubdg&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="barubdg" /></a>
 <a><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=barubdg&theme=tokyonight" alt="barubdg" /></a>
