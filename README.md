@@ -100,6 +100,12 @@
 <a><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=barubdg&theme=tokyonight" alt="barubdg" /></a>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barubdg&show_icons=true&locale=en&layout=compact" alt="barubdg" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barubdg&show_icons=true&locale=en" alt="barubdg" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barubdg&" alt="barubdg" /></p>
+
 
 
 
