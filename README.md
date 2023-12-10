@@ -1,9 +1,9 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/barubdg/barubdg/master/wave.gif" width="30">, I'm Baruch Dámazo</h1>
-<h3 align="center">Ingeniería de Software | 6° ciclo | Machine Learning | Python Data Analytics Developer | Java Developer | Graphic Designer | Video Editor</h3>
+<img align="left" src="photo-profile.png" alt="Imagen" height="250" />
+<img align="left" src="text-image.png" alt="Imagen" height="270" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barubdg&label=Profile%20views&color=0e75b6&style=flat" alt="barubdg"/> </p>
 <p align="center> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barubdg&theme=tokyonight" alt="barubdg" /></a> </p>
 
-<img align="left" src="photo-profile.png" alt="Imagen" height="250" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/barucbdg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="barucbdg" height="30" width="40" /></a>
