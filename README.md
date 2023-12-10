@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barubdg&label=Profile%20views&color=0e75b6&style=flat" alt="barubdg"/> </p>
 
 
+<img align="right" height="340" src="Data scientist.gif"  />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/barucbdg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="barucbdg" height="30" width="40" /></a>
@@ -95,11 +97,14 @@
 
 <br>
 
+
+
 <p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=barubdg&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="barubdg" /></p>
 
 <p>&nbsp;<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=barubdg&show_icons=true&locale=en&&theme=tokyonight" alt="barubdg" /></p>
 
 <p><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=barubdg&&theme=tokyonight" alt="barubdg" /></p>
+
 
 
 
